@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, Machine Learning, NLP.
 
 ## Education
-- Masters in Computer Applications (Data Science) | Symbiosis International University (_April 2020_)
-- Bachelors in Computer Applications | Symbiosis International University (_April 2018_)
+Masters in Computer Applications (Data Science) | Symbiosis International University (_April 2020_)
+Bachelors in Computer Applications | Symbiosis International University (_April 2018_)
 
 ## Work Experience
 **Senior Data Scientist @ Accenture for San Diego Gas & Electric (_May 2024 - Present_)**
