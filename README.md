@@ -10,6 +10,7 @@
 #### Tools : Excel, VBA, PowerPoint, Word, Jira, SAP HANA.
 
 ## Education
+
 Masters in Computer Applications (Data Science) | Symbiosis International University (_April 2020_)
 Bachelors in Computer Applications | Symbiosis International University (_April 2018_)
 
