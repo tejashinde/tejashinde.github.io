@@ -16,11 +16,11 @@ Bachelors in Computer Applications | Symbiosis International University (_April 
 
 ## Work Experience
 **Senior Data Scientist @ Accenture for San Diego Gas & Electric (_May 2024 - Present_)**
-- Built data foundation models supporting SDG&E’s Diverse Business Enterprise and Supply Chain initiatives, leveraging LLMs & Azure DevOps for most of the deployments alongside automated flows in Power Automate and various visualization tools.
-- Deep Dive Analysis and EDA on various factors affecting SDG&E’s decisive actions against Supply Chain initiatives and Diverse Business Enterprise budget models.
-- Built Power BI Dashboards with continuous maintenance for supporting crucial budget dashboards and driving business actions to serve the right data at organizational level.
-- Used AI powered copilot solutions to cater business needs in terms of natural language understanding.
-- Managed data driven solutions for budgeting, cost analysis and forecasting to drive strategic insights and operational efficiency.
+●	Created End to End CI/CD Pipelines to stitch multiple data sources and get actionable insights from 8 million rows, leading to improved effectiveness by identifying key drivers for Diverse Business Enterprise.
+●	Balanced covariates using advanced statistical techniques and applied K-Means clustering on cost probabilities from XGBoost, Random Forest propensity models, ensuring reliable forecasts saving up to 2 FTE’s work; ~ $200,000
+●	Built 18 operational Power BI & Tableau dashboards backed with NLP dealing with open text data, focused on using base LLMs liked Roberta, BERT and layering them with RAG pipelines. Deployment using Azure DevOps and Docker Containers.
+![image](https://github.com/user-attachments/assets/8df9dbbd-50ef-4f2f-853f-20f8f92036bc)
+
 
 **Data Science Manager @ HSBC (_June 2023 - May 2024_)**
 - With peak automation for all projects, we saved ~ 40 hours a week by implementing Python jobs to serve end-to-end reporting in silo’ d teams and scaled it to various parts of the organization as a product.
