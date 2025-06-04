@@ -10,8 +10,8 @@
 
 
 ## Education
-- Masters in Computer Applications (Data Science) | Symbiosis International University (_April 2020_)
-- Bachelors in Computer Applications | Symbiosis International University (_April 2018_)
+- Master of Science | Symbiosis International University (_April 2020_)
+- Bachelor of Computer Applications | Symbiosis International University (_April 2018_)
 
 
 ## Work Experience
