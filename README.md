@@ -36,7 +36,7 @@
 
 ## Projects and Recent Contributions
 - Kaggle: Detect AI Generated Texts using LLMs ([repo](https://github.com/tejashinde/detect-ai-llm))
-- Neural Network & Deep Learning ([repo](https://github.com/tejashinde/data-science-academy-portfolio/tree/main/Deep Learning))
+- Neural Network & Deep Learning ([repo](https://github.com/tejashinde/data-science-academy-portfolio/tree/main/Deep%20Learning))
 - Machine Learning ([repo](https://github.com/tejashinde/data-science-academy-portfolio/tree/main/Machine%20Learning))
 - OpenCV Projects ([repo](https://github.com/tejashinde/data-science-academy-portfolio/tree/main/Open%20CV))
 - Auto Encoders ([repo](https://github.com/tejashinde/data-science-academy-portfolio/tree/main/AutoEncoders))
