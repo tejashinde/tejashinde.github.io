@@ -1,13 +1,12 @@
 # Data Scientist
-
-##### Technical Skills: Python, SQL, Tableau, R, Rust, JavaScript, HTML5, CSS
-##### Concepts : Regression, Classification, Clustering, Advanced NLP, Neural Networks, RAG Pipelines, LLMs.
-##### Data Visualization : Tableau, PowerBI, Streamlit, Plotly, RShiny
-##### Frameworks : HuggingFace, Tensorflow, Keras, Transformers.
-##### AI : ChatGPT prompt engineering, Claude, Grok, Copilot, Perplexity.
-##### Cloud : Microsoft Azure (Azure Fundamentals Certified), Docker, DataBricks, Azure DevOps, CI/CD Pipelines
-##### Soft Skills : Clear communications, Leadership, People Manager, AGILE frameworks, Public speaking
-##### Tools : Excel, VBA, PowerPoint, Word, Jira, SAP HANA.
+- Technical Skills: Python, SQL, Tableau, R, Rust, JavaScript, HTML5, CSS
+- Concepts : Regression, Classification, Clustering, Advanced NLP, Neural Networks, RAG Pipelines, LLMs.
+- Data Visualization : Tableau, PowerBI, Streamlit, Plotly, RShiny
+- Frameworks : HuggingFace, Tensorflow, Keras, Transformers.
+- AI : ChatGPT prompt engineering, Claude, Grok, Copilot, Perplexity.
+- Cloud : Microsoft Azure (Azure Fundamentals Certified), Docker, DataBricks, Azure DevOps, CI/CD Pipelines
+- Soft Skills : Clear communications, Leadership, People Manager, AGILE frameworks, Public speaking
+- Tools : Excel, VBA, PowerPoint, Word, Jira, SAP HANA.
 
 
 ## Education
