@@ -35,12 +35,12 @@
 
 
 ## Projects and Recent Contributions
-- Kaggle: Detect AI Generated Texts using LLMs (repo)
-- Neural Network & Deep Learning (repo)
-- Machine Learning (repo)
-- OpenCV Projects (repo)
-- Auto Encoders (repo)
-- Reinforcement Learning (repo)
-- Full Stack Data Science Webapps (repo)
+- Kaggle: Detect AI Generated Texts using LLMs ([repo](https://github.com/tejashinde/detect-ai-llm))
+- Neural Network & Deep Learning ([repo](https://github.com/tejashinde/data-science-academy-portfolio/tree/main/Deep Learning))
+- Machine Learning ([repo](https://github.com/tejashinde/data-science-academy-portfolio/tree/main/Machine Learning))
+- OpenCV Projects ([repo](https://github.com/tejashinde/data-science-academy-portfolio/tree/main/Open CV))
+- Auto Encoders ([repo](https://github.com/tejashinde/data-science-academy-portfolio/tree/main/AutoEncoders))
+- Reinforcement Learning ([repo](https://github.com/tejashinde/data-science-academy-portfolio/tree/main/Reinforcement Learning))
+- Full Stack Data Science Webapps ([repo](https://github.com/tejashinde/data-science-academy-portfolio/tree/main/Streamlit Web Apps))
 
 
