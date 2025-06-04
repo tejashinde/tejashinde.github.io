@@ -10,8 +10,8 @@
 
 
 ## Education
-- Master of Science | Symbiosis International University (_April 2020_)
-- Bachelor of Computer Applications | Symbiosis International University (_April 2018_)
+- MS, Science | Symbiosis International University (_April 2020_)
+- BS, Computer Applications | Symbiosis International University (_April 2018_)
 
 
 ## Work Experience
